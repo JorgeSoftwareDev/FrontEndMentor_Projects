@@ -1,15 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400..700&family=Young+Serif&display=swap');
 *{
     box-sizing: border-box;
     padding:0;
     margin: 0;
-    font-size: 16px;
-    background-color: hsl(14, 45%, 36%);
-
+    background-color: hsl(30, 54%, 90%);
+    font-family: 'Outfit', Tahoma, Verdana, sans-serif;
 }
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+.menu{
+    width: 500px;
+}
+span{
+    font-family: 'Young Serif',Tahoma, Verdana, sans-serif;
+}
+
+
 .attribution{
     font-size: 11px; text-align: center; 
     color: hsl(228, 45%, 44%); 
-}
-.heading{
 
 }

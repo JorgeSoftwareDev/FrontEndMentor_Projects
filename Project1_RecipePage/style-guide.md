@@ -33,7 +33,7 @@ The designs were created to the following widths:
 
 ### Fonts
 
-- Family: [Young Serif](https://fonts.google.com/specimen/Young+Serif)
+- Family: [Young Serif](https://fonts.google.com/specimen/Young+Serif:wght@400)
 - Weights: 400
 
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
