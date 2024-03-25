@@ -20,9 +20,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Overview
 
+## The Challenge
+
+The challenge is to build out this recipe page and get it looking as close to the design as possible.
+
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/Project1_RecipePage/assets/images/screenshot.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -44,9 +48,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [Google Fonts] (https://fonts.google.com/)
+- [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/)
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
